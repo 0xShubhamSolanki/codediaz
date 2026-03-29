@@ -1,98 +1,98 @@
-<div align="right">
-<a style="text-decoration: none" target="_blank"href="https://github.com/codediaz">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=codediaz.codediaz&left_color=gray&right_color=blue&left_text=Coders%20visitors">
-</a>
-<a style="text-decoration: none" target="_blank" href="https://twitter.com/codediazsergio" >
-<img width="60"src="https://img.shields.io/twitter/follow/chipro?label=Follow&style=social">
-</a>
-<a style="text-decoration: none" target="_blank" href="https://www.linkedin.com/in/sergio-diaz-fernandez/" >
-<img width="70"src="https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white">
-</a>
-</div>
+<h1 align="center">Hi 👋, I'm Shubham Solanki</h1>
+<h3 align="center">🚀 Backend Engineer | Microservices, Distributed Systems & JVM Internals</h3>
 
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Sergio+Díaz!;" />
-
-<h2>📖 | About me</h2> 
-🌐 With 3+ years of experience as a Senior Software Engineer, I'm dedicated to developing software solutions that effectively bridge technology with real-world applications. My comprehensive expertise encompasses frontend, backend, and full-stack development, enabling me to contribute significantly to projects ranging from innovative startups to complex enterprise solutions. I advocate for clean, maintainable code and user-centric design, thriving in environments that prioritize innovation and ongoing professional growth.
-
-<div align="center">
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" />
-  <br/>
-</div>
-
-<h2>📚 | Education</h2>
-<p>As an engineer committed to lifelong learning, my academic path is both active and aspirational. Having achieved my bachelor's degree, I'm now advancing through my master's program, with the ultimate goal of attaining a doctoral degree.</p><br>
-
-<div align="center">
-  <table style="margin-left: auto; margin-right: auto;">
-    <tr>
-      <td align="center">
-        <img src="https://thumbs4.imagebam.com/7d/3e/66/MESRJTA_t.png" height="40" alt="1.png"/>
-        <img src="https://thumbs4.imagebam.com/6c/bc/6e/MESRGXI_t.png" width="90" alt="UPS.png"/><br>
-        <img src="https://thumbs4.imagebam.com/d7/6e/91/MESRJ8U_t.png" height="20" alt="Ec.png"/><br>
-        <strong>UPS</strong><br><strong>BSc.</strong> Computer Science<br>
-        <img src="https://geps.dev/progress/100" width="105" alt="progress-bar"/>
-      </td>
-      <td align="center">
-       <img src="https://thumbs4.imagebam.com/b4/6b/77/MESRJT1_t.png" height="40" alt="0.png"/>
-       <img src="https://thumbs4.imagebam.com/d6/0d/e4/MESRJUR_t.png" width="90" alt="TEC.png"/><br>
-        <img src="https://thumbs4.imagebam.com/b9/01/da/MESRJ8V_t.png" height="20" alt="Mx.png"/><br>
-        <strong>TEC</strong><br><strong>MSc.</strong> Inf. Technology Mgmt<br>
-        <img src="https://geps.dev/progress/90" width="100" alt="progress-bar"/>
-      </td>
-      <td align="center">
-       <img src="https://thumbs4.imagebam.com/b4/6b/77/MESRJT1_t.png" height="40" alt="0.png"/>
-       <img src="https://thumbs4.imagebam.com/5b/76/d8/MESRJL0_t.png" width="90" alt="MIT-C-I.png"/><br>
-        <img src="https://thumbs4.imagebam.com/c8/fe/34/MESRJ8W_t.png" height="20" alt="Usa.png"/><br>
-        <strong>MIT</strong><br><strong>PhD.</strong> Computer Science<br>
-        <img src="https://geps.dev/progress/0" width="105" alt="progress-bar"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<h2>🔥| My contribution streak</h2>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=codediaz#version3"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=0xShubhamSolanki&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<h2>⭐ | Github Stats </h2>
+---
 
-<div align="center">
-<a href="https://github.com/codediaz">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codediaz&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codediaz&layout=compact&langs_count=7&theme=default"/></a>
-</div>
+## 🐍 Contribution Snake
 
-<h2>🛠️ | Languages, Frameworks, and Tools </h2>
-<table>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,python,anaconda,opencv,java,php,laravel,cs,net,spring,go"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,nextjs,mui,bootstrap,html,css,js,ts,angular,vue,vuetify"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,gcp,aws,prometheus,terraform,azure,kubernetes"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,graphql,mongodb,redis,elasticsearch"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=github,gitlab,bitbucket"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=rabbitmq,grafana"/></td>
-    </tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/0xShubhamSolanki/0xShubhamSolanki/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🔭 Working on **Microservices architecture & Event-driven systems**
+- 🌱 Exploring **System Design, Cloud Native, JVM Internals (Garbage Collection), Rust Internals & Distributed Systems**
+- 👯 Looking to collaborate on **Java backend, Microservices & Open Source**
+- 🤝 Open to guidance in **System Design & Distributed Systems**
+- 👨‍💻 Projects: https://github.com/0xShubhamSolanki
+- 💬 Ask me about **Java, Spring Boot, Microservices, Kafka, AWS, CI/CD, Docker, JVM Internals, Production Debugging**
+- 📫 Email: **shubhamsolanki0x@gmail.com**
+
+---
+
+## 🌍 Open Source Contributions
+
+- 🔀 PRs: https://github.com/pulls?q=is%3Apr+author%3A0xShubhamSolanki  
+- 🐛 Issues: https://github.com/issues?q=is%3Aissue+author%3A0xShubhamSolanki  
+
+---
+
+## 🔥 Recent Merged PRs
+
+<!--START_SECTION:merged_prs-->
+Loading...
+<!--END_SECTION:merged_prs-->
+
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 Backend & Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+---
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+---
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+---
+
+### ⚙️ Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xShubhamSolanki&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xShubhamSolanki&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xShubhamSolanki&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+- Strong believer in **debugging > assumptions**
+- Focus on **production-ready scalable systems**
